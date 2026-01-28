@@ -3,14 +3,14 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F987C5&center=true&vCenter=true&width=800&lines=Data+Analyst;Excel+|+Power+BI+|+SQL+|+Python+;Transforming+Data+into+Actionable+Insights,+one+query+at+a+time;"alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC5D3&center=true&vCenter=true&width=800&lines=Data+Analyst;Excel+|+Power+BI+|+SQL+|+Python+;Transforming+Data+into+Actionable+Insights,+one+query+at+a+time;"alt="Typing SVG" />
   
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="www.linkedin.com/in/kofoworola-oyeniyi"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:katalysting@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="www.linkedin.com/in/kofoworola-oyeniyi"><img src="https://img.shields.io/badge/LinkedIn-FFC5D3"></a>
+  <a href="mailto:katalysting@gmail.com"><img src="https://img.shields.io/badge/Email-FB9EBB"></a>
 </p>
 
 ## 🚀 About Me 
