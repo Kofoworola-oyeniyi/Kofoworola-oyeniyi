@@ -10,10 +10,10 @@
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="www.linkedin.com/in/kofoworola-oyeniyi"><img src="https://img.shields.io/badge/LinkedIn-FFC5D3"></a>
-  <a href="mailto:katalysting@gmail.com"><img src="https://img.shields.io/badge/Email-FB9EBB"></a>
+  <a href="mailto:katalysting@gmail.com"><img src="https://img.shields.io/badge/Email-8BD3E6"></a>
 </p>
 
-## 🚀 About Me 
+## 👩🏿‍🦳 About Me 
 I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
 My focus is on building dashboards that speak to business concerns, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
